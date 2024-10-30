@@ -38,3 +38,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Additional ignores
+.env
+.env.local
+node_modules/
+.next/
+.setup_state.json
